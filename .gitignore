@@ -1,0 +1,30 @@
+
+# Build output
+bin/
+obj/
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Environment variables and secrets
+.env
+.env.*
+secrets.json
+appsettings.Local.json
+
+# Logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# User-specific publish settings
+Properties/PublishProfiles/*.pubxml
